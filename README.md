@@ -7,7 +7,7 @@ This was the final project for my introduction to computer science class. While 
 * String manipulation and lists
 * Loops
 
-## Program Purpose
+## Program purpose
 The program contains a class named FBoard for playing a game, where player "x" is trying to get thier piece to the bottom row of the game board and player "o" is trying to make it so player "x" doesn't have any legal moves. The gameplay is as follows:
 * The board is 8x8
 * The starting position of the "x" piece is the top row, 4 spaces from the left (index 0,3)
